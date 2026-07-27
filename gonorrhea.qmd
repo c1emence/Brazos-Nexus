@@ -1,0 +1,7 @@
+---
+title: "gonorrhea"
+format: dashboard
+editor: visual
+---
+
+gonorrhea :(

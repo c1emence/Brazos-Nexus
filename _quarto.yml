@@ -10,8 +10,14 @@ website:
         href: index.qmd
       - text: "STDs/STIs"
         menu:
+          - text: "Chlamydia"
+            href: chlamydia.qmd
+          - text: "Gonorrhea"
+            href: gonorrhea.qmd
           - text: "HIV"
             href: hiv.qmd
+          - text: "Syphilis"
+            href: syphilis.qmd
       - text: "About"
         href: about.qmd
 format:

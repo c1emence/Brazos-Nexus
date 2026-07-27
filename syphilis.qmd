@@ -1,0 +1,7 @@
+---
+title: "syphilis"
+format: dashboard
+editor: visual
+---
+
+syphilis :(
