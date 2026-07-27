@@ -1,0 +1,1001 @@
+case_id,disease,report_date,age,sex,race,GEOID
+1,Chlamydia,2025-12-17,17,Female,Asian,77867
+2,Chlamydia,2025-07-26,6,Unknown,Asian,77845
+3,HIV,2025-08-15,25,Unknown,White,77830
+4,Chlamydia,2025-03-22,78,Male,African American,77840
+5,Chlamydia,2025-05-13,83,Unknown,Asian,77879
+6,Gonorrhea,2025-10-31,20,Unknown,African American,77856
+7,Gonorrhea,2025-03-02,68,Female,African American,77803
+8,Chlamydia,2025-10-09,24,Unknown,Asian,77801
+9,Chlamydia,2025-11-03,27,Female,White,77808
+10,Syphilis,2025-12-23,77,Unknown,Asian,77859
+11,HIV,2025-11-14,23,Unknown,White,77871
+12,HIV,2025-09-26,53,Unknown,African American,77880
+13,HIV,2025-09-14,48,Male,African American,77856
+14,Chlamydia,2025-07-29,41,Male,Asian,77867
+15,Syphilis,2025-01-18,85,Female,African American,77872
+16,HIV,2025-02-15,63,Female,Asian,77840
+17,Syphilis,2025-02-16,53,Unknown,White,77802
+18,Chlamydia,2025-09-09,90,Male,Asian,77801
+19,Syphilis,2025-03-15,48,Female,White,77840
+20,Syphilis,2025-05-17,92,Female,African American,77868
+21,Gonorrhea,2025-09-04,2,Female,Asian,77872
+22,HIV,2025-01-25,40,Unknown,White,77859
+23,Gonorrhea,2025-01-06,31,Female,White,77879
+24,Gonorrhea,2025-11-29,8,Female,African American,77868
+25,Syphilis,2025-07-21,6,Male,African American,77868
+26,HIV,2025-04-03,13,Female,White,77867
+27,HIV,2025-01-26,23,Unknown,African American,77808
+28,Chlamydia,2025-10-08,45,Male,White,77871
+29,Syphilis,2025-07-02,85,Female,Asian,77871
+30,Chlamydia,2025-12-24,9,Female,Asian,77807
+31,Chlamydia,2025-01-05,48,Male,African American,77879
+32,Chlamydia,2025-07-08,73,Female,Asian,77856
+33,Gonorrhea,2025-07-05,41,Male,African American,77861
+34,Gonorrhea,2025-12-31,90,Unknown,Asian,77808
+35,Syphilis,2025-03-13,68,Female,African American,77807
+36,Syphilis,2025-05-21,15,Unknown,African American,77872
+37,Chlamydia,2025-01-05,61,Male,African American,77802
+38,Gonorrhea,2025-10-21,53,Female,African American,77879
+39,Gonorrhea,2025-02-13,47,Female,Asian,77859
+40,Syphilis,2025-07-31,11,Female,Asian,77859
+41,Chlamydia,2025-06-27,0,Female,White,77867
+42,Gonorrhea,2025-07-01,89,Female,African American,77808
+43,Syphilis,2025-02-26,1,Unknown,Asian,77867
+44,Syphilis,2025-04-09,78,Unknown,White,77807
+45,Chlamydia,2025-05-20,64,Female,African American,77840
+46,Chlamydia,2025-01-26,71,Female,African American,77845
+47,Chlamydia,2025-07-05,44,Male,African American,77880
+48,HIV,2025-12-18,56,Unknown,White,77803
+49,Chlamydia,2025-01-29,82,Unknown,African American,77803
+50,HIV,2025-07-08,57,Male,Asian,77879
+51,Gonorrhea,2025-03-13,12,Unknown,African American,77830
+52,Syphilis,2025-07-27,93,Male,White,77836
+53,Gonorrhea,2025-10-03,41,Female,White,77833
+54,Syphilis,2025-01-24,11,Male,African American,77861
+55,Chlamydia,2025-05-09,54,Male,Asian,77807
+56,Chlamydia,2025-08-14,13,Unknown,African American,77840
+57,Chlamydia,2025-12-12,1,Unknown,White,77845
+58,Chlamydia,2025-06-04,46,Female,White,77856
+59,HIV,2025-09-05,78,Female,African American,77871
+60,Chlamydia,2025-03-08,67,Male,Asian,77840
+61,Gonorrhea,2025-12-03,10,Unknown,White,77807
+62,Chlamydia,2025-12-12,66,Male,African American,77879
+63,Gonorrhea,2025-04-02,72,Female,White,77833
+64,Syphilis,2025-01-15,53,Female,White,77880
+65,Syphilis,2025-06-03,63,Female,African American,77859
+66,Gonorrhea,2025-08-14,48,Female,Asian,77802
+67,HIV,2025-04-05,13,Male,African American,77808
+68,Syphilis,2025-03-24,92,Unknown,Asian,77803
+69,Syphilis,2025-03-12,87,Unknown,African American,77867
+70,Gonorrhea,2025-06-05,57,Female,Asian,77807
+71,Chlamydia,2025-04-05,92,Male,African American,77807
+72,Syphilis,2025-12-22,14,Male,African American,77856
+73,HIV,2025-08-30,62,Unknown,White,77879
+74,Syphilis,2025-01-18,42,Female,White,77836
+75,HIV,2025-01-17,82,Unknown,Asian,77868
+76,Syphilis,2025-12-07,92,Unknown,African American,77830
+77,Syphilis,2025-09-08,43,Male,Asian,77801
+78,Syphilis,2025-03-12,94,Unknown,African American,77859
+79,HIV,2025-06-13,57,Female,White,77879
+80,Chlamydia,2025-01-13,55,Female,White,77808
+81,Syphilis,2025-06-22,49,Unknown,White,77801
+82,Chlamydia,2025-06-29,91,Male,Asian,77861
+83,Gonorrhea,2025-07-03,87,Male,African American,77880
+84,Syphilis,2025-11-14,5,Male,White,77840
+85,HIV,2025-09-21,28,Male,White,77861
+86,Chlamydia,2025-11-13,47,Unknown,Asian,77802
+87,HIV,2025-03-29,8,Female,White,77867
+88,Chlamydia,2025-10-03,17,Unknown,African American,77856
+89,Syphilis,2025-06-29,43,Male,Asian,77808
+90,Gonorrhea,2025-10-09,34,Unknown,Asian,77879
+91,Syphilis,2025-03-07,62,Male,White,77808
+92,HIV,2025-03-31,34,Female,Asian,77861
+93,Gonorrhea,2025-03-26,85,Male,White,77871
+94,Gonorrhea,2025-09-18,24,Female,White,77840
+95,Syphilis,2025-11-15,90,Male,Asian,77802
+96,Chlamydia,2025-05-30,55,Female,Asian,77867
+97,Syphilis,2025-07-26,1,Female,Asian,77861
+98,HIV,2025-03-21,44,Unknown,Asian,77803
+99,Syphilis,2025-12-09,4,Male,White,77836
+100,HIV,2025-08-18,4,Male,White,77872
+101,Chlamydia,2025-07-01,58,Female,African American,77867
+102,Chlamydia,2025-04-25,31,Female,Asian,77879
+103,Syphilis,2025-09-28,57,Female,African American,77836
+104,Syphilis,2025-01-06,50,Male,African American,77880
+105,Chlamydia,2025-01-31,87,Male,Asian,77856
+106,Gonorrhea,2025-06-01,54,Female,White,77801
+107,Chlamydia,2025-12-14,12,Male,White,77868
+108,Syphilis,2025-01-24,4,Male,White,77871
+109,HIV,2025-12-11,57,Unknown,Asian,77840
+110,Syphilis,2025-08-07,2,Male,Asian,77859
+111,Syphilis,2025-11-23,1,Male,African American,77879
+112,Chlamydia,2025-08-30,73,Female,African American,77836
+113,Syphilis,2025-07-18,75,Male,African American,77879
+114,Gonorrhea,2025-12-14,21,Male,White,77808
+115,Chlamydia,2025-11-18,77,Female,Asian,77801
+116,Chlamydia,2025-10-24,19,Female,African American,77880
+117,HIV,2025-06-27,40,Male,Asian,77808
+118,HIV,2025-01-05,79,Unknown,White,77833
+119,Gonorrhea,2025-05-27,24,Male,African American,77845
+120,Syphilis,2025-10-18,66,Female,African American,77880
+121,Chlamydia,2025-09-08,29,Unknown,White,77872
+122,Syphilis,2025-06-07,10,Unknown,White,77872
+123,Gonorrhea,2025-03-05,26,Female,Asian,77836
+124,Gonorrhea,2025-03-29,76,Female,African American,77802
+125,HIV,2025-02-21,70,Unknown,White,77879
+126,Gonorrhea,2025-05-07,82,Unknown,African American,77880
+127,Gonorrhea,2025-01-30,56,Female,Asian,77801
+128,HIV,2025-08-06,48,Unknown,Asian,77830
+129,Gonorrhea,2025-08-21,13,Unknown,African American,77872
+130,Gonorrhea,2025-09-30,88,Male,White,77845
+131,HIV,2025-10-15,30,Male,White,77867
+132,Gonorrhea,2025-04-28,38,Female,White,77861
+133,Chlamydia,2025-03-29,49,Male,White,77845
+134,Chlamydia,2025-02-24,74,Male,White,77808
+135,Syphilis,2025-07-21,45,Female,Asian,77836
+136,Chlamydia,2025-11-02,91,Unknown,African American,77833
+137,Syphilis,2025-05-27,54,Male,African American,77845
+138,Chlamydia,2025-08-22,42,Unknown,Asian,77801
+139,Syphilis,2025-11-12,2,Female,African American,77867
+140,Syphilis,2025-02-10,76,Unknown,Asian,77833
+141,Gonorrhea,2025-05-28,32,Male,Asian,77808
+142,Chlamydia,2025-05-11,66,Male,African American,77872
+143,Gonorrhea,2025-05-15,67,Male,White,77856
+144,Syphilis,2025-03-08,90,Female,African American,77830
+145,Gonorrhea,2025-03-29,1,Female,Asian,77867
+146,HIV,2025-10-01,56,Unknown,White,77880
+147,Chlamydia,2025-02-15,88,Unknown,Asian,77802
+148,Chlamydia,2025-10-08,46,Male,Asian,77801
+149,HIV,2025-08-14,81,Male,White,77845
+150,Chlamydia,2025-12-24,81,Female,White,77872
+151,Gonorrhea,2025-09-12,25,Female,Asian,77872
+152,Chlamydia,2025-02-03,78,Male,African American,77801
+153,Chlamydia,2025-10-22,73,Unknown,White,77868
+154,Syphilis,2025-01-17,31,Unknown,African American,77833
+155,Chlamydia,2025-08-15,20,Female,African American,77802
+156,HIV,2025-12-24,0,Male,African American,77830
+157,Syphilis,2025-06-08,5,Female,African American,77872
+158,Syphilis,2025-01-25,80,Female,Asian,77803
+159,Syphilis,2025-11-02,71,Male,Asian,77808
+160,Syphilis,2025-09-08,61,Male,White,77859
+161,Gonorrhea,2025-11-24,61,Female,African American,77871
+162,HIV,2025-08-01,47,Unknown,African American,77808
+163,HIV,2025-04-23,55,Unknown,Asian,77868
+164,Chlamydia,2025-11-11,20,Unknown,White,77856
+165,HIV,2025-11-16,79,Male,African American,77880
+166,HIV,2025-11-05,65,Unknown,Asian,77807
+167,Gonorrhea,2025-03-20,93,Unknown,Asian,77856
+168,HIV,2025-08-24,57,Unknown,White,77861
+169,Chlamydia,2025-12-11,48,Female,African American,77867
+170,Chlamydia,2025-03-13,9,Unknown,Asian,77879
+171,Gonorrhea,2025-12-30,45,Male,African American,77879
+172,Syphilis,2025-05-23,79,Male,Asian,77802
+173,Gonorrhea,2025-02-23,13,Female,Asian,77879
+174,Gonorrhea,2025-05-08,89,Male,White,77840
+175,Syphilis,2025-09-22,41,Male,White,77830
+176,Gonorrhea,2025-08-16,70,Unknown,Asian,77872
+177,HIV,2025-04-07,1,Male,Asian,77808
+178,HIV,2025-02-18,74,Male,Asian,77861
+179,HIV,2025-12-15,72,Male,White,77856
+180,HIV,2025-06-16,24,Male,Asian,77856
+181,HIV,2025-08-23,89,Male,African American,77856
+182,Gonorrhea,2025-06-11,24,Female,White,77856
+183,HIV,2025-01-10,76,Unknown,Asian,77807
+184,Gonorrhea,2025-03-14,7,Female,White,77833
+185,HIV,2025-01-21,93,Unknown,White,77871
+186,HIV,2025-12-22,70,Male,Asian,77802
+187,Gonorrhea,2025-12-26,30,Male,Asian,77830
+188,HIV,2025-10-31,81,Unknown,Asian,77833
+189,Chlamydia,2025-05-05,44,Male,African American,77807
+190,HIV,2025-08-28,95,Unknown,African American,77879
+191,Chlamydia,2025-02-10,86,Female,African American,77861
+192,Chlamydia,2025-02-26,22,Male,Asian,77807
+193,Syphilis,2025-12-26,63,Male,Asian,77845
+194,Gonorrhea,2025-05-29,37,Unknown,White,77867
+195,Gonorrhea,2025-08-29,49,Female,African American,77802
+196,Chlamydia,2025-10-09,0,Unknown,Asian,77807
+197,Chlamydia,2025-07-07,18,Unknown,African American,77859
+198,Syphilis,2025-05-10,0,Unknown,White,77808
+199,Chlamydia,2025-07-05,39,Male,Asian,77868
+200,Gonorrhea,2025-11-13,77,Unknown,White,77808
+201,Gonorrhea,2025-01-21,31,Unknown,White,77868
+202,HIV,2025-04-23,14,Female,African American,77868
+203,Syphilis,2025-07-11,40,Female,Asian,77808
+204,Syphilis,2025-11-18,44,Unknown,African American,77867
+205,HIV,2025-08-29,85,Unknown,White,77845
+206,Chlamydia,2025-05-31,35,Unknown,White,77845
+207,Syphilis,2025-11-16,27,Unknown,White,77807
+208,Chlamydia,2025-01-15,7,Unknown,African American,77871
+209,Gonorrhea,2025-05-21,14,Male,Asian,77856
+210,Gonorrhea,2025-11-21,83,Unknown,African American,77872
+211,Syphilis,2025-09-13,93,Female,Asian,77861
+212,Gonorrhea,2025-08-06,87,Unknown,Asian,77802
+213,Chlamydia,2025-10-03,28,Unknown,Asian,77859
+214,Syphilis,2025-12-21,5,Female,African American,77845
+215,HIV,2025-04-14,34,Female,African American,77833
+216,Syphilis,2025-06-30,32,Male,White,77808
+217,Gonorrhea,2025-10-24,7,Unknown,Asian,77867
+218,Gonorrhea,2025-02-01,50,Unknown,White,77861
+219,Chlamydia,2025-04-26,79,Female,White,77803
+220,Syphilis,2025-06-26,8,Unknown,White,77879
+221,Chlamydia,2025-05-28,22,Male,White,77879
+222,Gonorrhea,2025-10-29,92,Male,White,77872
+223,Chlamydia,2025-09-09,13,Unknown,White,77840
+224,Chlamydia,2025-11-29,29,Female,African American,77802
+225,HIV,2025-06-02,67,Male,White,77867
+226,Syphilis,2025-10-23,38,Unknown,African American,77801
+227,HIV,2025-05-03,78,Female,White,77871
+228,Gonorrhea,2025-10-08,52,Unknown,Asian,77802
+229,HIV,2025-07-03,22,Male,White,77879
+230,Chlamydia,2025-01-30,91,Male,Asian,77859
+231,HIV,2025-12-15,68,Unknown,Asian,77856
+232,HIV,2025-04-16,31,Female,Asian,77868
+233,Syphilis,2025-01-30,33,Unknown,African American,77833
+234,Chlamydia,2025-09-27,70,Unknown,African American,77856
+235,Gonorrhea,2025-04-05,77,Male,Asian,77861
+236,HIV,2025-07-02,95,Male,White,77830
+237,Chlamydia,2025-10-17,14,Male,African American,77845
+238,Syphilis,2025-06-03,5,Unknown,White,77859
+239,HIV,2025-07-02,3,Male,Asian,77830
+240,Chlamydia,2025-05-15,26,Unknown,African American,77833
+241,Syphilis,2025-08-26,27,Male,African American,77868
+242,Syphilis,2025-04-20,27,Female,Asian,77833
+243,HIV,2025-06-28,89,Female,Asian,77807
+244,Chlamydia,2025-11-28,7,Female,Asian,77871
+245,HIV,2025-11-27,85,Unknown,White,77880
+246,Syphilis,2025-12-03,40,Male,Asian,77808
+247,HIV,2025-10-15,38,Female,White,77807
+248,Gonorrhea,2025-12-27,84,Female,African American,77830
+249,Syphilis,2025-08-03,50,Male,Asian,77801
+250,HIV,2025-10-13,67,Unknown,African American,77871
+251,Syphilis,2025-03-24,74,Unknown,White,77845
+252,Syphilis,2025-01-05,65,Male,African American,77803
+253,Syphilis,2025-03-24,26,Unknown,White,77807
+254,Chlamydia,2025-03-17,95,Female,African American,77880
+255,Chlamydia,2025-01-01,56,Male,African American,77807
+256,Gonorrhea,2025-02-17,48,Male,Asian,77836
+257,Syphilis,2025-11-02,75,Female,African American,77871
+258,HIV,2025-08-23,45,Unknown,Asian,77859
+259,HIV,2025-04-20,46,Unknown,White,77861
+260,Gonorrhea,2025-06-14,4,Male,White,77845
+261,Chlamydia,2025-01-30,77,Male,Asian,77833
+262,HIV,2025-12-14,85,Male,Asian,77856
+263,Chlamydia,2025-06-29,28,Female,White,77808
+264,HIV,2025-04-12,20,Unknown,White,77861
+265,Chlamydia,2025-04-18,39,Female,Asian,77871
+266,HIV,2025-09-15,32,Male,African American,77836
+267,Gonorrhea,2025-03-27,29,Unknown,African American,77868
+268,Syphilis,2025-02-17,59,Female,Asian,77845
+269,HIV,2025-10-23,92,Female,Asian,77801
+270,HIV,2025-11-14,78,Female,Asian,77803
+271,Chlamydia,2025-05-05,55,Unknown,White,77801
+272,Chlamydia,2025-10-30,6,Female,African American,77859
+273,HIV,2025-06-22,2,Male,Asian,77872
+274,Chlamydia,2025-05-18,20,Unknown,White,77830
+275,Gonorrhea,2025-08-09,42,Male,African American,77807
+276,Chlamydia,2025-11-09,48,Unknown,White,77880
+277,Syphilis,2025-04-04,93,Female,White,77871
+278,Chlamydia,2025-11-03,23,Unknown,African American,77808
+279,Chlamydia,2025-03-19,34,Female,Asian,77871
+280,Chlamydia,2025-11-08,62,Unknown,White,77801
+281,Syphilis,2025-12-04,64,Female,White,77872
+282,Syphilis,2025-09-28,40,Female,African American,77836
+283,Gonorrhea,2025-04-16,89,Female,Asian,77801
+284,Syphilis,2025-09-20,87,Male,Asian,77871
+285,Gonorrhea,2025-04-12,4,Unknown,Asian,77871
+286,Chlamydia,2025-01-19,2,Male,African American,77830
+287,Gonorrhea,2025-10-22,57,Male,White,77867
+288,Chlamydia,2025-07-07,70,Male,White,77861
+289,Syphilis,2025-08-22,41,Unknown,White,77807
+290,Chlamydia,2025-09-10,7,Unknown,Asian,77880
+291,HIV,2025-10-27,75,Unknown,African American,77801
+292,Chlamydia,2025-01-14,87,Male,Asian,77861
+293,Gonorrhea,2025-10-21,78,Male,African American,77856
+294,Chlamydia,2025-12-13,56,Female,White,77801
+295,Gonorrhea,2025-02-16,47,Unknown,White,77840
+296,HIV,2025-02-27,70,Unknown,White,77861
+297,HIV,2025-06-09,42,Male,African American,77840
+298,Chlamydia,2025-01-23,44,Female,Asian,77803
+299,HIV,2025-10-25,90,Unknown,White,77867
+300,Gonorrhea,2025-08-30,73,Male,White,77836
+301,Syphilis,2025-02-19,7,Female,African American,77879
+302,Gonorrhea,2025-08-20,80,Male,Asian,77803
+303,Syphilis,2025-08-12,56,Male,African American,77840
+304,Gonorrhea,2025-07-13,6,Unknown,African American,77859
+305,Gonorrhea,2025-05-27,28,Unknown,African American,77807
+306,Chlamydia,2025-07-11,23,Unknown,Asian,77856
+307,Chlamydia,2025-12-08,88,Unknown,White,77803
+308,Gonorrhea,2025-07-27,8,Male,White,77867
+309,HIV,2025-12-05,15,Male,White,77879
+310,HIV,2025-03-15,92,Female,African American,77802
+311,Chlamydia,2025-07-14,90,Male,White,77845
+312,HIV,2025-04-29,4,Unknown,Asian,77803
+313,HIV,2025-12-25,15,Female,African American,77872
+314,Syphilis,2025-11-07,28,Male,Asian,77845
+315,Gonorrhea,2025-03-07,35,Male,Asian,77807
+316,Chlamydia,2025-03-22,74,Female,Asian,77802
+317,HIV,2025-12-30,40,Female,Asian,77879
+318,Gonorrhea,2025-10-22,47,Female,White,77868
+319,Syphilis,2025-08-25,13,Unknown,White,77807
+320,Chlamydia,2025-12-18,59,Female,White,77872
+321,Gonorrhea,2025-05-29,26,Unknown,African American,77840
+322,Chlamydia,2025-08-14,62,Male,Asian,77871
+323,Syphilis,2025-12-26,13,Male,White,77808
+324,HIV,2025-04-20,26,Male,White,77859
+325,HIV,2025-12-31,83,Female,Asian,77802
+326,Gonorrhea,2025-11-15,69,Female,Asian,77833
+327,Gonorrhea,2025-04-01,23,Male,Asian,77868
+328,Chlamydia,2025-04-17,74,Male,White,77872
+329,Gonorrhea,2025-08-31,51,Female,African American,77845
+330,Syphilis,2025-03-10,64,Male,White,77830
+331,Gonorrhea,2025-04-09,81,Unknown,Asian,77845
+332,Chlamydia,2025-06-01,27,Unknown,African American,77867
+333,HIV,2025-10-23,85,Male,Asian,77801
+334,Chlamydia,2025-03-28,63,Male,Asian,77867
+335,Gonorrhea,2025-04-03,64,Unknown,Asian,77867
+336,Syphilis,2025-01-19,63,Male,White,77833
+337,Gonorrhea,2025-08-19,52,Female,African American,77840
+338,Syphilis,2025-11-30,68,Unknown,White,77867
+339,Gonorrhea,2025-08-24,15,Unknown,White,77802
+340,HIV,2025-05-17,12,Male,Asian,77836
+341,Gonorrhea,2025-11-22,30,Male,Asian,77803
+342,Syphilis,2025-03-29,39,Female,African American,77872
+343,HIV,2025-08-01,19,Unknown,White,77840
+344,Chlamydia,2025-07-16,48,Female,African American,77856
+345,Syphilis,2025-12-14,84,Male,White,77867
+346,Chlamydia,2025-09-11,27,Unknown,Asian,77802
+347,Chlamydia,2025-12-30,88,Male,African American,77879
+348,Gonorrhea,2025-09-02,7,Unknown,African American,77879
+349,Syphilis,2025-05-25,47,Female,White,77871
+350,Chlamydia,2025-01-28,44,Unknown,White,77859
+351,Syphilis,2025-02-21,94,Male,White,77868
+352,HIV,2025-01-23,42,Female,White,77867
+353,Syphilis,2025-12-30,72,Male,Asian,77880
+354,Gonorrhea,2025-11-20,71,Female,White,77880
+355,Chlamydia,2025-08-19,10,Female,African American,77801
+356,Gonorrhea,2025-04-05,31,Male,Asian,77808
+357,Gonorrhea,2025-03-22,90,Female,White,77859
+358,HIV,2025-03-12,75,Unknown,African American,77861
+359,Chlamydia,2025-03-28,19,Male,African American,77880
+360,Gonorrhea,2025-08-29,15,Male,Asian,77867
+361,Chlamydia,2025-07-13,52,Male,Asian,77808
+362,Syphilis,2025-08-16,3,Male,Asian,77830
+363,HIV,2025-07-12,76,Unknown,Asian,77861
+364,Syphilis,2025-04-30,46,Unknown,White,77808
+365,Syphilis,2025-05-24,55,Unknown,Asian,77840
+366,Syphilis,2025-02-16,7,Male,African American,77879
+367,Gonorrhea,2025-08-20,33,Female,African American,77836
+368,Chlamydia,2025-10-30,93,Unknown,African American,77845
+369,Gonorrhea,2025-03-06,10,Female,White,77867
+370,HIV,2025-08-05,52,Male,Asian,77803
+371,HIV,2025-05-31,71,Male,African American,77861
+372,Syphilis,2025-04-19,60,Female,Asian,77872
+373,HIV,2025-11-28,65,Female,African American,77880
+374,Syphilis,2025-02-28,1,Unknown,White,77840
+375,HIV,2025-05-09,56,Unknown,Asian,77872
+376,Syphilis,2025-01-05,27,Unknown,Asian,77801
+377,Chlamydia,2025-10-30,12,Male,White,77845
+378,HIV,2025-09-08,31,Female,Asian,77859
+379,Syphilis,2025-09-26,79,Female,White,77808
+380,Gonorrhea,2025-01-18,93,Female,Asian,77856
+381,HIV,2025-02-12,5,Unknown,African American,77872
+382,Chlamydia,2025-03-18,1,Unknown,White,77880
+383,Syphilis,2025-06-07,24,Unknown,White,77830
+384,Syphilis,2025-11-29,37,Female,African American,77868
+385,Gonorrhea,2025-08-05,38,Male,Asian,77807
+386,Chlamydia,2025-09-22,71,Female,African American,77840
+387,Chlamydia,2025-04-03,38,Unknown,White,77859
+388,HIV,2025-10-04,20,Unknown,Asian,77856
+389,Chlamydia,2025-02-23,78,Female,Asian,77802
+390,HIV,2025-10-22,69,Male,African American,77871
+391,Chlamydia,2025-09-13,82,Unknown,African American,77830
+392,Syphilis,2025-12-23,72,Female,African American,77845
+393,Gonorrhea,2025-03-12,11,Unknown,White,77871
+394,HIV,2025-12-11,9,Male,White,77867
+395,Chlamydia,2025-08-22,35,Male,African American,77880
+396,Gonorrhea,2025-10-24,80,Female,White,77879
+397,Syphilis,2025-04-12,82,Unknown,African American,77833
+398,HIV,2025-04-07,12,Unknown,African American,77807
+399,Syphilis,2025-05-20,9,Unknown,White,77840
+400,Chlamydia,2025-04-24,84,Male,Asian,77868
+401,Syphilis,2025-10-20,77,Female,African American,77801
+402,HIV,2025-08-03,94,Male,White,77861
+403,Gonorrhea,2025-10-19,42,Female,African American,77802
+404,Chlamydia,2025-12-07,76,Unknown,African American,77801
+405,Gonorrhea,2025-04-25,9,Female,Asian,77845
+406,Chlamydia,2025-10-04,26,Male,African American,77868
+407,Syphilis,2025-12-27,42,Male,Asian,77880
+408,Gonorrhea,2025-03-24,5,Male,African American,77840
+409,HIV,2025-02-22,42,Unknown,African American,77836
+410,Chlamydia,2025-08-01,70,Male,Asian,77801
+411,Syphilis,2025-12-16,1,Male,White,77868
+412,Chlamydia,2025-08-10,35,Unknown,African American,77802
+413,Syphilis,2025-09-06,82,Male,White,77856
+414,Chlamydia,2025-04-26,62,Unknown,White,77867
+415,Chlamydia,2025-06-01,13,Female,White,77802
+416,Syphilis,2025-04-03,90,Male,African American,77872
+417,HIV,2025-02-05,27,Female,African American,77802
+418,Syphilis,2025-09-23,44,Unknown,African American,77833
+419,HIV,2025-05-10,80,Female,Asian,77871
+420,Syphilis,2025-06-04,77,Male,Asian,77879
+421,HIV,2025-02-10,73,Unknown,Asian,77879
+422,Syphilis,2025-12-15,57,Female,African American,77880
+423,Gonorrhea,2025-11-10,34,Male,African American,77859
+424,HIV,2025-01-17,12,Male,Asian,77859
+425,HIV,2025-04-29,71,Female,White,77836
+426,Gonorrhea,2025-07-30,32,Female,African American,77840
+427,Syphilis,2025-05-05,28,Male,African American,77856
+428,HIV,2025-02-21,76,Male,White,77845
+429,Chlamydia,2025-07-16,21,Female,Asian,77872
+430,Syphilis,2025-08-21,65,Male,African American,77836
+431,Gonorrhea,2025-03-20,94,Male,African American,77803
+432,HIV,2025-06-16,82,Male,African American,77859
+433,Chlamydia,2025-10-02,8,Unknown,African American,77868
+434,Syphilis,2025-12-28,37,Male,Asian,77856
+435,Chlamydia,2025-01-21,71,Female,Asian,77808
+436,HIV,2025-12-24,59,Unknown,Asian,77856
+437,Gonorrhea,2025-09-03,36,Female,African American,77833
+438,HIV,2025-06-03,59,Male,Asian,77807
+439,Gonorrhea,2025-08-26,67,Male,Asian,77803
+440,HIV,2025-03-31,47,Male,Asian,77807
+441,Chlamydia,2025-10-09,78,Female,Asian,77836
+442,HIV,2025-08-18,49,Male,White,77802
+443,Chlamydia,2025-10-14,65,Unknown,White,77879
+444,Gonorrhea,2025-09-12,26,Unknown,Asian,77807
+445,Syphilis,2025-04-12,55,Male,White,77840
+446,Syphilis,2025-04-15,88,Unknown,White,77803
+447,Chlamydia,2025-05-15,91,Female,White,77879
+448,Syphilis,2025-07-29,23,Male,African American,77801
+449,Chlamydia,2025-05-23,2,Unknown,African American,77830
+450,Chlamydia,2025-04-01,9,Female,Asian,77833
+451,HIV,2025-08-24,72,Unknown,White,77801
+452,Gonorrhea,2025-12-14,66,Male,Asian,77801
+453,HIV,2025-07-22,62,Female,White,77859
+454,Chlamydia,2025-01-15,34,Female,White,77880
+455,HIV,2025-05-25,24,Unknown,White,77836
+456,Syphilis,2025-07-27,58,Male,Asian,77836
+457,HIV,2025-03-07,10,Female,White,77807
+458,Syphilis,2025-03-08,64,Unknown,African American,77840
+459,Syphilis,2025-12-16,38,Unknown,White,77833
+460,Chlamydia,2025-03-13,79,Female,White,77861
+461,HIV,2025-02-12,9,Unknown,Asian,77859
+462,Chlamydia,2025-09-29,10,Male,African American,77803
+463,Gonorrhea,2025-10-22,48,Male,African American,77879
+464,Chlamydia,2025-12-03,82,Male,African American,77802
+465,HIV,2025-07-18,39,Male,White,77836
+466,Gonorrhea,2025-08-20,69,Female,African American,77871
+467,Chlamydia,2025-09-13,9,Unknown,White,77836
+468,HIV,2025-12-18,78,Female,African American,77859
+469,Syphilis,2025-11-08,88,Male,White,77836
+470,Syphilis,2025-09-29,59,Unknown,Asian,77803
+471,Chlamydia,2025-09-01,44,Male,Asian,77801
+472,Syphilis,2025-02-26,92,Unknown,White,77801
+473,Chlamydia,2025-07-11,89,Male,Asian,77836
+474,Chlamydia,2025-05-10,59,Male,White,77880
+475,HIV,2025-12-02,40,Female,Asian,77807
+476,Chlamydia,2025-09-28,7,Unknown,White,77840
+477,Syphilis,2025-06-29,23,Unknown,African American,77801
+478,Chlamydia,2025-10-17,4,Female,African American,77808
+479,Syphilis,2025-05-03,33,Female,White,77856
+480,Chlamydia,2025-04-22,75,Unknown,African American,77807
+481,Gonorrhea,2025-05-16,11,Female,White,77867
+482,Chlamydia,2025-03-15,62,Male,Asian,77871
+483,Chlamydia,2025-08-25,55,Unknown,White,77840
+484,Gonorrhea,2025-11-05,47,Female,African American,77868
+485,Syphilis,2025-07-18,3,Female,African American,77840
+486,Chlamydia,2025-02-26,94,Female,White,77803
+487,Chlamydia,2025-02-09,93,Unknown,White,77808
+488,Syphilis,2025-02-04,22,Female,African American,77836
+489,HIV,2025-03-01,56,Unknown,Asian,77871
+490,HIV,2025-05-09,62,Unknown,African American,77807
+491,Chlamydia,2025-05-04,29,Male,African American,77861
+492,Chlamydia,2025-11-18,85,Unknown,White,77880
+493,HIV,2025-07-10,4,Female,White,77859
+494,Syphilis,2025-06-23,6,Female,African American,77845
+495,HIV,2025-05-29,84,Male,Asian,77808
+496,HIV,2025-01-31,4,Unknown,Asian,77871
+497,Chlamydia,2025-03-31,40,Unknown,White,77803
+498,HIV,2025-06-12,37,Female,White,77808
+499,Chlamydia,2025-03-10,25,Unknown,African American,77807
+500,HIV,2025-10-14,34,Male,White,77836
+501,Gonorrhea,2025-02-15,70,Female,Asian,77845
+502,Chlamydia,2025-11-16,1,Male,African American,77856
+503,Syphilis,2025-03-24,67,Male,Asian,77859
+504,Syphilis,2025-04-01,34,Female,African American,77840
+505,Gonorrhea,2025-06-13,78,Unknown,White,77836
+506,HIV,2025-02-25,34,Unknown,White,77871
+507,HIV,2025-02-28,11,Male,White,77802
+508,Gonorrhea,2025-01-14,16,Male,African American,77836
+509,Syphilis,2025-02-26,39,Unknown,White,77836
+510,Chlamydia,2025-09-17,6,Unknown,African American,77879
+511,Chlamydia,2025-04-21,37,Female,White,77830
+512,HIV,2025-10-30,23,Female,White,77808
+513,Chlamydia,2025-10-18,28,Male,African American,77808
+514,Gonorrhea,2025-01-06,46,Female,White,77808
+515,HIV,2025-06-19,40,Male,African American,77861
+516,Chlamydia,2025-03-11,18,Female,Asian,77871
+517,Chlamydia,2025-04-01,69,Male,White,77808
+518,HIV,2025-10-12,62,Unknown,African American,77867
+519,HIV,2025-05-22,5,Unknown,White,77845
+520,Chlamydia,2025-01-17,15,Male,African American,77867
+521,Gonorrhea,2025-12-14,4,Male,African American,77808
+522,HIV,2025-07-08,83,Male,Asian,77868
+523,Gonorrhea,2025-03-01,80,Male,Asian,77859
+524,Gonorrhea,2025-06-12,70,Male,African American,77802
+525,Chlamydia,2025-02-24,14,Male,Asian,77807
+526,Chlamydia,2025-07-11,47,Female,Asian,77859
+527,Chlamydia,2025-10-07,14,Unknown,African American,77868
+528,Syphilis,2025-10-23,13,Male,African American,77808
+529,Chlamydia,2025-10-14,77,Male,Asian,77880
+530,Gonorrhea,2025-08-11,65,Female,White,77808
+531,Chlamydia,2025-05-15,19,Female,Asian,77807
+532,Gonorrhea,2025-04-16,49,Unknown,White,77867
+533,Chlamydia,2025-02-20,59,Unknown,Asian,77867
+534,Gonorrhea,2025-10-02,60,Female,African American,77868
+535,Chlamydia,2025-04-21,78,Male,Asian,77836
+536,Syphilis,2025-08-25,50,Female,White,77871
+537,HIV,2025-01-16,15,Male,White,77803
+538,Chlamydia,2025-03-31,32,Unknown,African American,77802
+539,Syphilis,2025-09-22,45,Unknown,Asian,77879
+540,HIV,2025-03-12,77,Male,White,77830
+541,HIV,2025-06-08,74,Unknown,White,77872
+542,Syphilis,2025-11-28,72,Female,African American,77880
+543,Syphilis,2025-01-08,28,Unknown,Asian,77840
+544,Chlamydia,2025-11-21,86,Female,White,77872
+545,Chlamydia,2025-01-02,58,Unknown,African American,77880
+546,Syphilis,2025-10-18,33,Female,Asian,77880
+547,Chlamydia,2025-11-14,86,Unknown,White,77845
+548,Chlamydia,2025-05-25,71,Female,African American,77871
+549,Syphilis,2025-07-28,29,Male,African American,77808
+550,Syphilis,2025-12-15,60,Unknown,African American,77879
+551,Syphilis,2025-07-18,0,Unknown,Asian,77808
+552,Gonorrhea,2025-05-29,75,Female,White,77879
+553,Chlamydia,2025-11-07,30,Male,White,77840
+554,HIV,2025-01-14,2,Female,White,77879
+555,Syphilis,2025-11-06,91,Unknown,White,77861
+556,HIV,2025-11-19,33,Female,White,77802
+557,Chlamydia,2025-06-12,6,Unknown,Asian,77880
+558,Chlamydia,2025-11-27,86,Male,African American,77868
+559,Syphilis,2025-03-03,93,Female,White,77840
+560,Chlamydia,2025-11-06,74,Unknown,Asian,77861
+561,Chlamydia,2025-12-15,24,Female,Asian,77830
+562,Syphilis,2025-08-11,40,Male,Asian,77833
+563,Chlamydia,2025-11-28,71,Unknown,White,77867
+564,Gonorrhea,2025-04-24,65,Unknown,African American,77880
+565,Gonorrhea,2025-08-30,21,Male,African American,77830
+566,Chlamydia,2025-05-10,15,Female,African American,77868
+567,HIV,2025-11-06,80,Male,African American,77871
+568,Gonorrhea,2025-04-27,35,Male,Asian,77880
+569,Gonorrhea,2025-06-23,60,Female,Asian,77808
+570,HIV,2025-12-30,53,Female,White,77879
+571,Syphilis,2025-11-26,32,Unknown,Asian,77879
+572,Syphilis,2025-02-17,86,Male,Asian,77859
+573,Chlamydia,2025-11-17,69,Male,African American,77807
+574,Chlamydia,2025-03-08,22,Male,Asian,77871
+575,Syphilis,2025-06-03,23,Unknown,Asian,77803
+576,HIV,2025-10-18,57,Unknown,White,77856
+577,Syphilis,2025-06-15,42,Female,African American,77872
+578,Syphilis,2025-11-06,7,Male,African American,77801
+579,Gonorrhea,2025-07-02,39,Unknown,White,77802
+580,Gonorrhea,2025-03-05,41,Unknown,White,77845
+581,Chlamydia,2025-04-26,56,Male,African American,77801
+582,Gonorrhea,2025-03-23,82,Male,White,77879
+583,HIV,2025-08-18,83,Female,Asian,77867
+584,Gonorrhea,2025-09-25,25,Female,White,77867
+585,Gonorrhea,2025-05-10,13,Female,White,77856
+586,Chlamydia,2025-02-28,68,Unknown,Asian,77879
+587,Syphilis,2025-05-27,36,Unknown,White,77879
+588,HIV,2025-05-05,21,Male,Asian,77859
+589,Chlamydia,2025-10-22,36,Male,Asian,77867
+590,Syphilis,2025-01-31,18,Unknown,Asian,77807
+591,Syphilis,2025-10-23,4,Male,White,77861
+592,Gonorrhea,2025-01-13,55,Female,African American,77879
+593,Syphilis,2025-01-29,62,Female,White,77880
+594,Gonorrhea,2025-05-01,86,Unknown,Asian,77879
+595,Gonorrhea,2025-09-09,44,Female,African American,77830
+596,Chlamydia,2025-09-18,20,Female,African American,77867
+597,HIV,2025-08-11,59,Unknown,African American,77880
+598,Chlamydia,2025-01-13,37,Unknown,White,77861
+599,Syphilis,2025-01-25,19,Unknown,African American,77871
+600,Chlamydia,2025-07-02,40,Female,African American,77880
+601,Chlamydia,2025-06-14,53,Unknown,Asian,77801
+602,Chlamydia,2025-08-06,9,Male,Asian,77867
+603,Syphilis,2025-04-25,82,Female,White,77868
+604,Gonorrhea,2025-04-06,52,Male,Asian,77859
+605,HIV,2025-07-29,89,Unknown,Asian,77871
+606,HIV,2025-10-17,50,Male,White,77833
+607,HIV,2025-06-13,50,Male,Asian,77845
+608,Gonorrhea,2025-02-28,66,Male,Asian,77872
+609,HIV,2025-04-27,44,Female,Asian,77840
+610,Chlamydia,2025-10-23,75,Male,Asian,77856
+611,HIV,2025-11-01,13,Unknown,White,77833
+612,HIV,2025-01-24,35,Unknown,African American,77802
+613,HIV,2025-12-14,87,Female,White,77836
+614,Gonorrhea,2025-08-30,71,Male,White,77807
+615,Gonorrhea,2025-09-30,58,Unknown,White,77807
+616,Gonorrhea,2025-02-04,23,Female,African American,77803
+617,Chlamydia,2025-08-22,68,Female,African American,77872
+618,Chlamydia,2025-01-18,22,Female,White,77867
+619,Gonorrhea,2025-04-29,25,Male,Asian,77807
+620,Gonorrhea,2025-05-21,39,Male,White,77830
+621,HIV,2025-11-17,42,Female,African American,77830
+622,HIV,2025-12-18,58,Male,African American,77840
+623,Gonorrhea,2025-09-17,3,Female,Asian,77871
+624,Syphilis,2025-10-20,88,Female,Asian,77836
+625,Chlamydia,2025-11-30,53,Unknown,White,77808
+626,Chlamydia,2025-01-21,49,Male,African American,77802
+627,Chlamydia,2025-08-01,84,Female,African American,77868
+628,Chlamydia,2025-04-09,50,Male,Asian,77808
+629,Chlamydia,2025-12-04,46,Female,White,77836
+630,Syphilis,2025-10-07,2,Male,African American,77840
+631,Chlamydia,2025-09-20,54,Unknown,African American,77802
+632,HIV,2025-03-31,74,Female,Asian,77833
+633,Syphilis,2025-01-01,92,Unknown,White,77801
+634,HIV,2025-10-11,56,Female,White,77808
+635,HIV,2025-09-02,48,Unknown,Asian,77867
+636,Chlamydia,2025-12-13,58,Unknown,Asian,77872
+637,Gonorrhea,2025-06-22,28,Unknown,Asian,77836
+638,Chlamydia,2025-10-10,86,Male,African American,77801
+639,HIV,2025-09-09,63,Unknown,Asian,77845
+640,Syphilis,2025-06-22,54,Unknown,Asian,77871
+641,Syphilis,2025-06-16,76,Male,White,77801
+642,Syphilis,2025-03-19,85,Male,African American,77861
+643,HIV,2025-11-29,74,Female,African American,77833
+644,Syphilis,2025-08-23,87,Female,Asian,77861
+645,Syphilis,2025-02-24,30,Unknown,White,77803
+646,HIV,2025-04-03,18,Male,Asian,77802
+647,HIV,2025-07-12,30,Female,African American,77836
+648,Gonorrhea,2025-06-19,44,Male,White,77871
+649,HIV,2025-05-27,56,Unknown,African American,77879
+650,HIV,2025-02-23,12,Female,African American,77871
+651,Syphilis,2025-12-16,66,Unknown,White,77802
+652,HIV,2025-12-27,24,Unknown,African American,77802
+653,Chlamydia,2025-06-11,88,Female,White,77840
+654,Chlamydia,2025-05-01,41,Male,African American,77830
+655,Syphilis,2025-11-26,53,Female,White,77801
+656,HIV,2025-02-22,3,Unknown,White,77830
+657,Gonorrhea,2025-12-26,62,Male,Asian,77861
+658,HIV,2025-09-21,32,Unknown,Asian,77845
+659,Syphilis,2025-05-13,41,Unknown,Asian,77868
+660,Gonorrhea,2025-05-10,90,Unknown,African American,77867
+661,Syphilis,2025-05-15,73,Female,White,77868
+662,Chlamydia,2025-08-24,33,Male,White,77859
+663,HIV,2025-12-19,0,Female,African American,77871
+664,Chlamydia,2025-03-20,58,Unknown,Asian,77803
+665,HIV,2025-11-13,18,Male,African American,77861
+666,Syphilis,2025-01-20,20,Unknown,African American,77868
+667,Chlamydia,2025-03-29,12,Female,White,77833
+668,Gonorrhea,2025-02-27,88,Female,African American,77808
+669,HIV,2025-07-25,0,Unknown,Asian,77808
+670,HIV,2025-05-15,49,Female,White,77845
+671,Gonorrhea,2025-01-23,74,Male,White,77856
+672,Chlamydia,2025-08-21,37,Unknown,African American,77840
+673,Gonorrhea,2025-07-22,40,Unknown,African American,77840
+674,Gonorrhea,2025-08-22,63,Male,African American,77830
+675,Syphilis,2025-05-26,29,Unknown,White,77807
+676,HIV,2025-03-02,56,Female,White,77859
+677,HIV,2025-06-26,34,Male,White,77801
+678,Syphilis,2025-10-15,15,Unknown,African American,77861
+679,Chlamydia,2025-09-28,91,Female,Asian,77840
+680,Syphilis,2025-04-16,78,Female,African American,77879
+681,Chlamydia,2025-07-11,31,Male,African American,77807
+682,Gonorrhea,2025-08-21,48,Unknown,White,77836
+683,Gonorrhea,2025-05-18,39,Unknown,Asian,77801
+684,Syphilis,2025-05-24,0,Male,White,77836
+685,Chlamydia,2025-10-06,69,Unknown,White,77859
+686,Gonorrhea,2025-11-23,66,Male,White,77868
+687,Chlamydia,2025-11-15,53,Unknown,Asian,77868
+688,Chlamydia,2025-12-16,87,Unknown,Asian,77868
+689,Syphilis,2025-08-15,64,Female,White,77803
+690,HIV,2025-11-09,22,Male,African American,77867
+691,Chlamydia,2025-08-03,80,Male,Asian,77803
+692,Chlamydia,2025-11-03,43,Unknown,White,77801
+693,HIV,2025-09-14,17,Unknown,African American,77845
+694,Chlamydia,2025-04-18,67,Unknown,African American,77836
+695,Syphilis,2025-09-29,2,Male,White,77830
+696,HIV,2025-12-12,34,Female,African American,77803
+697,Chlamydia,2025-08-19,4,Male,Asian,77867
+698,HIV,2025-05-07,31,Male,African American,77840
+699,HIV,2025-01-29,81,Female,White,77845
+700,Syphilis,2025-10-23,49,Male,Asian,77868
+701,Chlamydia,2025-05-13,69,Unknown,White,77872
+702,Chlamydia,2025-02-15,57,Male,Asian,77859
+703,Gonorrhea,2025-08-13,25,Male,White,77836
+704,Gonorrhea,2025-04-28,47,Male,White,77868
+705,Syphilis,2025-07-11,80,Female,White,77802
+706,HIV,2025-10-26,91,Female,African American,77845
+707,Gonorrhea,2025-12-17,27,Unknown,White,77856
+708,Syphilis,2025-09-02,4,Male,Asian,77861
+709,Syphilis,2025-11-12,38,Female,African American,77801
+710,Gonorrhea,2025-05-23,37,Unknown,Asian,77880
+711,Chlamydia,2025-04-30,90,Unknown,Asian,77867
+712,Gonorrhea,2025-05-16,55,Female,Asian,77808
+713,Syphilis,2025-06-23,5,Unknown,Asian,77868
+714,HIV,2025-05-16,69,Female,African American,77859
+715,Chlamydia,2025-10-11,86,Unknown,Asian,77833
+716,Gonorrhea,2025-01-15,85,Female,Asian,77861
+717,Syphilis,2025-02-02,81,Unknown,Asian,77871
+718,HIV,2025-11-28,54,Unknown,White,77840
+719,HIV,2025-05-29,47,Unknown,White,77859
+720,HIV,2025-01-05,53,Male,White,77867
+721,Syphilis,2025-11-15,16,Female,White,77830
+722,Syphilis,2025-05-28,94,Female,White,77840
+723,HIV,2025-05-13,12,Male,African American,77880
+724,Gonorrhea,2025-10-06,52,Female,African American,77861
+725,Chlamydia,2025-09-15,17,Unknown,Asian,77868
+726,HIV,2025-11-11,12,Male,White,77868
+727,Gonorrhea,2025-11-15,10,Unknown,Asian,77872
+728,Gonorrhea,2025-04-23,82,Female,Asian,77845
+729,Chlamydia,2025-09-01,70,Unknown,Asian,77808
+730,Chlamydia,2025-11-09,21,Female,African American,77830
+731,Syphilis,2025-07-08,25,Unknown,White,77808
+732,Syphilis,2025-01-23,6,Female,African American,77808
+733,HIV,2025-12-25,24,Unknown,African American,77807
+734,HIV,2025-05-10,79,Unknown,Asian,77830
+735,Syphilis,2025-08-27,77,Female,Asian,77845
+736,Syphilis,2025-04-26,71,Unknown,White,77840
+737,Gonorrhea,2025-11-24,40,Unknown,White,77801
+738,Gonorrhea,2025-05-16,13,Unknown,African American,77867
+739,Gonorrhea,2025-02-24,58,Female,White,77880
+740,Syphilis,2025-02-11,45,Unknown,Asian,77840
+741,HIV,2025-07-27,59,Female,Asian,77845
+742,Chlamydia,2025-04-21,7,Unknown,African American,77808
+743,Syphilis,2025-10-31,85,Male,White,77868
+744,HIV,2025-02-08,68,Unknown,African American,77859
+745,Chlamydia,2025-01-11,63,Female,African American,77840
+746,Chlamydia,2025-08-31,72,Unknown,African American,77830
+747,HIV,2025-03-26,89,Male,African American,77836
+748,Chlamydia,2025-08-25,38,Female,Asian,77833
+749,HIV,2025-10-12,26,Unknown,African American,77802
+750,Gonorrhea,2025-01-17,93,Female,Asian,77879
+751,Syphilis,2025-07-07,18,Male,White,77803
+752,Gonorrhea,2025-11-17,85,Male,White,77808
+753,HIV,2025-01-10,8,Unknown,Asian,77867
+754,Chlamydia,2025-10-16,73,Unknown,White,77845
+755,Chlamydia,2025-04-28,45,Unknown,Asian,77836
+756,Chlamydia,2025-07-17,34,Unknown,Asian,77880
+757,Syphilis,2025-01-17,44,Female,White,77830
+758,Syphilis,2025-10-27,35,Unknown,White,77803
+759,HIV,2025-10-31,12,Female,African American,77840
+760,Chlamydia,2025-05-08,12,Female,Asian,77871
+761,HIV,2025-07-29,78,Female,White,77868
+762,Syphilis,2025-10-30,7,Male,White,77872
+763,Chlamydia,2025-09-02,2,Male,Asian,77807
+764,Chlamydia,2025-07-14,16,Unknown,African American,77867
+765,Syphilis,2025-08-23,62,Female,White,77872
+766,Gonorrhea,2025-03-09,60,Unknown,Asian,77879
+767,Gonorrhea,2025-01-08,66,Male,African American,77872
+768,Gonorrhea,2025-09-03,77,Female,Asian,77833
+769,Syphilis,2025-08-02,64,Female,White,77833
+770,HIV,2025-10-04,79,Female,White,77861
+771,Gonorrhea,2025-04-08,29,Unknown,African American,77803
+772,Gonorrhea,2025-10-12,79,Unknown,Asian,77867
+773,HIV,2025-09-14,41,Male,African American,77859
+774,Syphilis,2025-04-17,10,Unknown,White,77871
+775,Gonorrhea,2025-05-10,18,Female,Asian,77856
+776,Gonorrhea,2025-08-17,86,Unknown,Asian,77879
+777,Syphilis,2025-12-10,63,Male,Asian,77856
+778,Gonorrhea,2025-02-04,39,Female,White,77856
+779,Gonorrhea,2025-11-28,23,Male,White,77802
+780,HIV,2025-05-07,48,Unknown,White,77845
+781,HIV,2025-12-15,87,Male,Asian,77845
+782,HIV,2025-01-18,4,Male,White,77802
+783,Gonorrhea,2025-12-23,95,Female,African American,77802
+784,Gonorrhea,2025-01-13,13,Unknown,African American,77861
+785,Syphilis,2025-03-26,51,Female,White,77872
+786,HIV,2025-09-19,13,Unknown,African American,77867
+787,HIV,2025-03-14,7,Unknown,White,77836
+788,Chlamydia,2025-07-30,34,Female,African American,77879
+789,Chlamydia,2025-10-01,1,Unknown,African American,77801
+790,Syphilis,2025-08-25,64,Female,White,77830
+791,HIV,2025-05-22,28,Male,Asian,77830
+792,Gonorrhea,2025-06-10,71,Unknown,Asian,77879
+793,Syphilis,2025-11-06,44,Female,White,77867
+794,Syphilis,2025-08-07,5,Male,African American,77879
+795,HIV,2025-08-12,56,Unknown,Asian,77872
+796,Syphilis,2025-09-16,36,Unknown,Asian,77802
+797,Gonorrhea,2025-01-16,15,Female,Asian,77836
+798,Chlamydia,2025-03-19,67,Unknown,African American,77861
+799,Syphilis,2025-03-22,93,Unknown,White,77833
+800,Chlamydia,2025-09-24,74,Female,African American,77801
+801,HIV,2025-09-18,55,Unknown,White,77845
+802,Syphilis,2025-01-13,60,Unknown,Asian,77859
+803,Chlamydia,2025-10-09,2,Unknown,Asian,77801
+804,Gonorrhea,2025-06-08,27,Male,White,77801
+805,Chlamydia,2025-10-19,46,Unknown,Asian,77880
+806,Syphilis,2025-05-18,17,Unknown,White,77861
+807,Gonorrhea,2025-02-17,15,Female,African American,77856
+808,Chlamydia,2025-04-21,4,Unknown,African American,77872
+809,Chlamydia,2025-05-11,76,Unknown,Asian,77872
+810,HIV,2025-01-09,91,Unknown,African American,77840
+811,HIV,2025-12-16,95,Male,African American,77859
+812,Chlamydia,2025-03-05,40,Unknown,Asian,77871
+813,Syphilis,2025-06-17,82,Male,African American,77880
+814,Gonorrhea,2025-11-01,79,Male,White,77856
+815,Gonorrhea,2025-05-09,44,Unknown,Asian,77801
+816,Syphilis,2025-03-10,90,Male,White,77871
+817,Chlamydia,2025-01-20,76,Female,African American,77830
+818,Gonorrhea,2025-03-14,54,Unknown,African American,77807
+819,Gonorrhea,2025-12-05,18,Male,African American,77861
+820,HIV,2025-12-23,29,Female,Asian,77861
+821,Syphilis,2025-06-08,92,Male,Asian,77830
+822,Chlamydia,2025-05-21,29,Female,Asian,77861
+823,HIV,2025-07-30,75,Male,African American,77859
+824,HIV,2025-04-23,95,Unknown,African American,77802
+825,HIV,2025-07-08,90,Female,African American,77859
+826,Gonorrhea,2025-09-27,78,Male,African American,77861
+827,HIV,2025-06-21,84,Female,White,77840
+828,HIV,2025-04-21,94,Female,White,77836
+829,Syphilis,2025-10-13,47,Unknown,Asian,77833
+830,HIV,2025-07-21,40,Male,African American,77836
+831,Chlamydia,2025-02-07,95,Unknown,Asian,77867
+832,Syphilis,2025-12-01,52,Male,Asian,77867
+833,HIV,2025-06-12,85,Unknown,African American,77867
+834,Chlamydia,2025-01-17,76,Male,African American,77802
+835,Gonorrhea,2025-01-27,84,Unknown,African American,77840
+836,Chlamydia,2025-07-15,15,Unknown,White,77856
+837,Syphilis,2025-02-10,85,Male,African American,77830
+838,HIV,2025-12-14,53,Male,White,77867
+839,HIV,2025-08-07,81,Unknown,African American,77880
+840,HIV,2025-01-27,9,Unknown,White,77867
+841,Chlamydia,2025-10-29,74,Female,White,77879
+842,Gonorrhea,2025-10-27,54,Male,Asian,77833
+843,Syphilis,2025-10-28,53,Unknown,White,77833
+844,Gonorrhea,2025-07-09,24,Unknown,Asian,77801
+845,Syphilis,2025-01-24,90,Male,African American,77861
+846,Gonorrhea,2025-06-28,87,Male,African American,77867
+847,HIV,2025-03-14,9,Female,Asian,77867
+848,HIV,2025-07-18,40,Female,Asian,77808
+849,HIV,2025-06-01,84,Male,White,77880
+850,HIV,2025-03-01,44,Unknown,African American,77840
+851,HIV,2025-06-26,91,Male,Asian,77803
+852,Syphilis,2025-11-29,1,Male,African American,77836
+853,Syphilis,2025-07-10,21,Unknown,White,77833
+854,Chlamydia,2025-05-01,53,Male,White,77836
+855,Chlamydia,2025-09-27,47,Female,White,77803
+856,Chlamydia,2025-08-27,81,Male,Asian,77859
+857,Syphilis,2025-12-03,76,Female,White,77871
+858,Gonorrhea,2025-10-10,68,Female,Asian,77845
+859,Chlamydia,2025-05-21,3,Male,Asian,77807
+860,HIV,2025-05-13,64,Female,Asian,77801
+861,HIV,2025-02-05,52,Unknown,White,77871
+862,Gonorrhea,2025-04-17,53,Male,White,77836
+863,Syphilis,2025-08-25,45,Male,African American,77836
+864,Syphilis,2025-04-04,26,Unknown,White,77808
+865,Gonorrhea,2025-10-05,70,Male,African American,77868
+866,Syphilis,2025-06-22,50,Male,White,77868
+867,HIV,2025-08-13,2,Male,Asian,77833
+868,HIV,2025-02-19,50,Unknown,African American,77840
+869,Syphilis,2025-12-22,39,Unknown,White,77801
+870,HIV,2025-04-04,43,Unknown,White,77859
+871,Syphilis,2025-10-26,43,Male,Asian,77845
+872,Chlamydia,2025-10-21,32,Female,Asian,77833
+873,Syphilis,2025-09-06,32,Unknown,African American,77867
+874,Chlamydia,2025-04-30,92,Unknown,White,77872
+875,Syphilis,2025-01-04,53,Male,Asian,77840
+876,HIV,2025-09-06,53,Male,White,77807
+877,Gonorrhea,2025-07-23,57,Unknown,African American,77802
+878,Chlamydia,2025-11-17,55,Male,White,77859
+879,Chlamydia,2025-04-01,30,Female,African American,77801
+880,Gonorrhea,2025-04-26,94,Male,White,77801
+881,Chlamydia,2025-07-02,13,Female,African American,77872
+882,Syphilis,2025-02-14,68,Female,White,77856
+883,Syphilis,2025-08-31,80,Unknown,African American,77880
+884,Chlamydia,2025-09-26,49,Unknown,African American,77802
+885,Syphilis,2025-11-24,3,Female,White,77872
+886,Chlamydia,2025-09-13,52,Unknown,White,77836
+887,Syphilis,2025-02-12,44,Female,White,77803
+888,HIV,2025-08-23,67,Male,White,77872
+889,HIV,2025-06-16,14,Female,Asian,77807
+890,Chlamydia,2025-01-08,40,Unknown,White,77859
+891,Syphilis,2025-02-06,46,Unknown,White,77840
+892,Gonorrhea,2025-10-09,44,Unknown,White,77830
+893,Gonorrhea,2025-03-28,92,Male,White,77803
+894,Syphilis,2025-07-06,28,Male,African American,77803
+895,Chlamydia,2025-08-17,8,Female,White,77836
+896,Gonorrhea,2025-09-02,32,Male,White,77808
+897,Chlamydia,2025-08-26,86,Unknown,Asian,77871
+898,Gonorrhea,2025-09-14,81,Female,White,77880
+899,Gonorrhea,2025-05-14,83,Male,Asian,77879
+900,Gonorrhea,2025-01-15,65,Unknown,African American,77868
+901,Gonorrhea,2025-04-27,41,Male,Asian,77871
+902,Chlamydia,2025-04-28,83,Male,White,77867
+903,Gonorrhea,2025-04-25,40,Female,White,77836
+904,Gonorrhea,2025-12-15,18,Male,White,77871
+905,HIV,2025-02-18,32,Female,Asian,77801
+906,Syphilis,2025-11-16,89,Unknown,White,77868
+907,HIV,2025-05-12,8,Male,African American,77872
+908,Chlamydia,2025-02-14,47,Unknown,Asian,77840
+909,Syphilis,2025-02-23,68,Male,White,77856
+910,Syphilis,2025-02-25,41,Unknown,African American,77845
+911,Syphilis,2025-11-10,46,Unknown,African American,77808
+912,Syphilis,2025-07-04,48,Male,African American,77801
+913,Chlamydia,2025-11-22,56,Unknown,White,77861
+914,Chlamydia,2025-06-30,77,Female,African American,77879
+915,Chlamydia,2025-06-28,75,Female,Asian,77880
+916,Syphilis,2025-10-26,39,Unknown,White,77833
+917,Gonorrhea,2025-09-24,59,Female,White,77830
+918,HIV,2025-04-13,87,Unknown,Asian,77836
+919,Syphilis,2025-06-10,48,Female,African American,77872
+920,Gonorrhea,2025-07-25,58,Unknown,White,77833
+921,HIV,2025-03-14,82,Female,African American,77830
+922,Syphilis,2025-03-02,92,Unknown,Asian,77845
+923,Chlamydia,2025-02-10,85,Female,African American,77880
+924,Syphilis,2025-05-16,49,Female,African American,77802
+925,Syphilis,2025-10-03,42,Female,Asian,77833
+926,Syphilis,2025-03-01,55,Unknown,Asian,77801
+927,Gonorrhea,2025-03-19,89,Unknown,Asian,77807
+928,Chlamydia,2025-01-26,44,Male,White,77871
+929,Gonorrhea,2025-06-08,12,Male,African American,77836
+930,Syphilis,2025-08-13,91,Unknown,African American,77880
+931,Chlamydia,2025-10-16,72,Female,Asian,77830
+932,Syphilis,2025-02-27,2,Female,Asian,77856
+933,Syphilis,2025-06-15,85,Unknown,African American,77867
+934,Gonorrhea,2025-12-30,53,Female,White,77872
+935,HIV,2025-01-31,13,Male,Asian,77856
+936,Chlamydia,2025-07-25,29,Male,Asian,77845
+937,HIV,2025-11-12,87,Unknown,African American,77867
+938,Gonorrhea,2025-12-28,80,Male,Asian,77845
+939,Chlamydia,2025-06-24,30,Female,Asian,77867
+940,Gonorrhea,2025-12-08,4,Male,White,77872
+941,Chlamydia,2025-11-19,92,Male,Asian,77830
+942,Gonorrhea,2025-01-09,81,Female,African American,77802
+943,Chlamydia,2025-11-17,83,Female,African American,77801
+944,Gonorrhea,2025-01-29,64,Female,White,77880
+945,Chlamydia,2025-05-15,66,Female,Asian,77861
+946,Gonorrhea,2025-09-10,75,Unknown,Asian,77867
+947,HIV,2025-02-18,56,Female,White,77861
+948,HIV,2025-07-27,4,Unknown,Asian,77830
+949,HIV,2025-03-16,3,Male,White,77801
+950,Gonorrhea,2025-06-15,16,Male,White,77830
+951,Gonorrhea,2025-10-25,6,Unknown,African American,77872
+952,HIV,2025-05-05,5,Male,Asian,77872
+953,Gonorrhea,2025-10-15,26,Male,White,77840
+954,Gonorrhea,2025-03-11,74,Male,African American,77859
+955,Chlamydia,2025-08-12,6,Male,White,77803
+956,HIV,2025-12-22,5,Female,African American,77880
+957,Chlamydia,2025-01-02,24,Male,African American,77801
+958,Gonorrhea,2025-05-09,35,Male,Asian,77871
+959,Syphilis,2025-06-03,11,Male,African American,77840
+960,Chlamydia,2025-10-09,37,Female,White,77861
+961,Syphilis,2025-06-14,39,Male,African American,77872
+962,Syphilis,2025-05-11,0,Unknown,Asian,77880
+963,HIV,2025-01-04,64,Female,White,77830
+964,Syphilis,2025-07-10,62,Unknown,White,77861
+965,Syphilis,2025-03-06,24,Female,African American,77861
+966,Gonorrhea,2025-07-12,6,Female,Asian,77807
+967,Gonorrhea,2025-01-17,19,Unknown,African American,77802
+968,HIV,2025-02-10,90,Female,White,77807
+969,Chlamydia,2025-05-29,77,Female,Asian,77867
+970,Syphilis,2025-05-10,4,Unknown,White,77803
+971,Syphilis,2025-11-16,18,Male,African American,77867
+972,Chlamydia,2025-01-01,81,Male,Asian,77861
+973,HIV,2025-06-04,88,Unknown,African American,77836
+974,Chlamydia,2025-11-22,36,Unknown,Asian,77833
+975,Syphilis,2025-01-11,73,Female,White,77880
+976,Chlamydia,2025-07-13,42,Male,African American,77833
+977,Gonorrhea,2025-08-24,47,Female,White,77808
+978,Chlamydia,2025-04-17,78,Unknown,Asian,77840
+979,Gonorrhea,2025-09-02,23,Female,African American,77807
+980,Chlamydia,2025-07-13,13,Unknown,White,77833
+981,Syphilis,2025-08-01,43,Unknown,African American,77807
+982,HIV,2025-10-30,78,Unknown,Asian,77802
+983,Gonorrhea,2025-03-19,14,Male,Asian,77808
+984,Gonorrhea,2025-08-23,66,Male,White,77803
+985,Syphilis,2025-02-12,95,Male,African American,77867
+986,HIV,2025-08-04,57,Female,White,77807
+987,Chlamydia,2025-11-10,54,Unknown,White,77872
+988,Syphilis,2025-08-21,61,Male,Asian,77859
+989,Syphilis,2025-01-27,23,Unknown,Asian,77856
+990,Syphilis,2025-05-05,11,Female,White,77861
+991,Chlamydia,2025-09-02,92,Male,Asian,77867
+992,HIV,2025-10-15,81,Female,African American,77830
+993,HIV,2025-12-28,78,Male,Asian,77840
+994,Gonorrhea,2025-10-11,74,Unknown,African American,77802
+995,Chlamydia,2025-11-11,71,Male,White,77871
+996,Chlamydia,2025-04-30,27,Male,White,77801
+997,HIV,2025-06-26,22,Male,Asian,77861
+998,HIV,2025-10-16,74,Male,African American,77861
+999,Gonorrhea,2025-06-23,85,Female,Asian,77872
+1000,Chlamydia,2025-07-06,5,Unknown,African American,77868
