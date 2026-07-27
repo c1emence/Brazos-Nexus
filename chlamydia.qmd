@@ -1,5 +1,5 @@
 ---
-title: "chlamydia"
+title: "Chlamydia"
 format: dashboard
 editor: visual
 ---

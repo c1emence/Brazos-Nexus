@@ -1,5 +1,5 @@
 ---
-title: "gonorrhea"
+title: "Gonorrhea"
 format: dashboard
 editor: visual
 ---

@@ -37,9 +37,9 @@ plot(st_geometry(brazos_zips))
 
 # Create Dataset ####
 set.seed(0905)
-fake_cases <- tibble(
+df <- tibble(
   case_id = 1:1000,
-  disease = sample(
+  disease_name = sample(
     c("HIV", "Syphilis", "Gonorrhea", "Chlamydia"),
     1000,
     replace = TRUE
@@ -56,4 +56,4 @@ fake_cases <- tibble(
 )
 
 # Write Re-Useable Permanent Dataset
-write_csv(fake_cases, "data/fake_cases.csv")
+write_csv(df, "data/fake_cases.csv")

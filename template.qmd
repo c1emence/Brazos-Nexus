@@ -1,0 +1,102 @@
+---
+title: "page_template"
+format: 
+  dashboard:
+    orientation: rows
+    scrolling: true
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(forcats)
+library(tidyr)
+
+# Load reusable functions
+source("R/Master Function.R")
+
+# Load surveillance data
+cases <- readr::read_csv(
+  "data/fake_cases.csv",
+  show_col_types = FALSE
+) |>
+  janitor::clean_names()
+
+# Rename disease column
+cases <- cases |>
+  rename(
+    disease = disease_name
+  )
+
+# Specify disease for this page
+disease_name <- "Chlamydia"
+
+# Build all page outputs
+page <- build_disease_page(
+  data = cases,
+  disease_name = disease_name
+)
+```
+
+# Summary
+
+```{r}
+#| title: Total Reported Cases
+#| echo: false
+#| content: valuebox
+
+page$total_cases
+```
+
+# Demographics
+
+```{r}
+#| title: Age Distribution
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$demographics$age_plot
+```
+
+```{r}
+#| title: Sex Distribution
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$demographics$sex_plot
+```
+
+```{r}
+#| title: Race Distribution
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$demographics$race_plot
+```
+
+# Time Trends
+
+```{r}
+#| title: Weekly Plot
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$time_trends$weekly_plot
+```
+
+```{r}
+#| title: Monthly Plot
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$time_trends$monthly_plot
+```

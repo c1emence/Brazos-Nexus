@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the Brazos County Notifiable Diseases Dashboard. This website serves as a central hub for summaries of notifiable conditions in Brazos County. Use the navigation bar to explore disease-specific geographic distributions and time-trends."
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,12 @@
     "title": "About Brazos Nexus",
     "section": "Dashboard Development",
     "text": "Dashboard Development\nThis dashboard was designed and developed by   Clemence A. Fichet  , an MPH student in Epidemiology at the Texas A&M University School of Public Health, during a practicum with the Brazos County Health District. This dashboard was included as a deliverable in the Applied Practice Experience (APEx) program at the School of Public Health.\nQuestions about development can be fielded to clemence.fichet@tamu.edu."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Welcome",
+    "section": "Quick Links",
+    "text": "Quick Links\nNavigate to the Brazos County Health District Website   here  ."
   }
 ]

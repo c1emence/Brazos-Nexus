@@ -1,5 +1,5 @@
 ---
-title: "syphilis"
+title: "Syphilis"
 format: dashboard
 editor: visual
 ---

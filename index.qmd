@@ -1,12 +1,10 @@
 ---
 title: "Welcome"
-format: html
+format: dashboard
 ---
 
-This is a Quarto website.
+Welcome to the Brazos County Notifiable Diseases Dashboard. This website serves as a central hub for summaries of notifiable conditions in Brazos County. Use the navigation bar to explore disease-specific geographic distributions and time-trends.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Quick Links
 
-```{r}
-1 + 1
-```
+Navigate to the Brazos County Health District Website <strong> <a href="https://health.brazoscountytx.gov/" target="_blank" rel="noopener noreferrer"> here </a> </strong>.
