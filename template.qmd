@@ -2,7 +2,6 @@
 title: "page_template"
 format: 
   dashboard:
-    orientation: rows
     scrolling: true
 ---
 
@@ -15,16 +14,19 @@ library(ggplot2)
 library(lubridate)
 library(forcats)
 library(tidyr)
+library(sf)
+library(leaflet)
 
-# Load reusable functions
 source("R/Master Function.R")
 
-# Load surveillance data
+# Disease for this page
+disease_name <- "Chlamydia"
+
+# Individual case records
 cases <- readr::read_csv(
   "data/fake_cases.csv",
   show_col_types = FALSE
-) |>
-  janitor::clean_names()
+)
 
 # Rename disease column
 cases <- cases |>
@@ -32,13 +34,20 @@ cases <- cases |>
     disease = disease_name
   )
 
-# Specify disease for this page
-disease_name <- "Chlamydia"
+# Spatial boundaries
+map_shapes <- sf::st_read(
+  "https://services1.arcgis.com/x5wCko8UnSi4h0CB/ArcGIS/rest/services/Brazos_County_City_Limits_and_Zip_Codes_WFL1/FeatureServer/3/query?where=1%3D1&outFields=*&f=geojson",
+  quiet = TRUE
+)
 
-# Build all page outputs
+# Build every page component
 page <- build_disease_page(
   data = cases,
-  disease_name = disease_name
+  disease_name = disease_name,
+  map_shapes = map_shapes,
+  case_geography_variable = "GEOID",
+  shape_geography_variable = "Zip_Code",
+  geography_label = "ZIP"
 )
 ```
 
@@ -99,4 +108,11 @@ page$time_trends$weekly_plot
 #| fig-height: 5
 
 page$time_trends$monthly_plot
+```
+
+# Geographic Distribution
+
+```{r}
+#| title: Density Map
+page$geography$map
 ```

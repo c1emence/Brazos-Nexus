@@ -1,7 +1,118 @@
 ---
 title: "Syphilis"
-format: dashboard
-editor: visual
+format: 
+  dashboard:
+    scrolling: true
 ---
 
-syphilis :(
+```{r}
+#| label: setup
+#| include: false
+
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library(forcats)
+library(tidyr)
+library(sf)
+library(leaflet)
+
+source("R/Master Function.R")
+
+# Disease for this page
+disease_name <- "Syphilis"
+
+# Individual case records
+cases <- readr::read_csv(
+  "data/fake_cases.csv",
+  show_col_types = FALSE
+)
+
+# Rename disease column
+cases <- cases |>
+  rename(
+    disease = disease_name
+  )
+
+# Spatial boundaries
+map_shapes <- sf::st_read(
+  "https://services1.arcgis.com/x5wCko8UnSi4h0CB/ArcGIS/rest/services/Brazos_County_City_Limits_and_Zip_Codes_WFL1/FeatureServer/3/query?where=1%3D1&outFields=*&f=geojson",
+  quiet = TRUE
+)
+
+# Build every page component
+page <- build_disease_page(
+  data = cases,
+  disease_name = disease_name,
+  map_shapes = map_shapes,
+  case_geography_variable = "GEOID",
+  shape_geography_variable = "Zip_Code",
+  geography_label = "ZIP"
+)
+```
+
+# Summary
+
+```{r}
+#| title: Total Reported Cases
+#| echo: false
+#| content: valuebox
+
+page$total_cases
+```
+
+# Demographics
+
+```{r}
+#| title: Age Distribution
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$demographics$age_plot
+```
+
+```{r}
+#| title: Sex Distribution
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$demographics$sex_plot
+```
+
+```{r}
+#| title: Race Distribution
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$demographics$race_plot
+```
+
+# Time Trends
+
+```{r}
+#| title: Weekly Plot
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$time_trends$weekly_plot
+```
+
+```{r}
+#| title: Monthly Plot
+#| echo: false
+#| fig-width: 8
+#| fig-height: 5
+
+page$time_trends$monthly_plot
+```
+
+# Geographic Distribution
+
+```{r}
+#| title: Density Map
+page$geography$map
+```
