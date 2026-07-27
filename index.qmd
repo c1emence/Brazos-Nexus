@@ -1,6 +1,6 @@
 ---
 title: "Brazos Nexus"
-visual: dashboard
+format: html
 ---
 
 This is a Quarto website.

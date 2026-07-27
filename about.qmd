@@ -1,6 +1,6 @@
 ---
 title: "About"
-visual: dashboard
+format: html
 ---
 
 About this site

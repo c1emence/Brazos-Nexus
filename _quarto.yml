@@ -1,21 +1,20 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Brazos Nexus"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - text: "Home"
+        href: index.qmd
+      - text: "STDs/STIs"
+        menu:
+          - text: "HIV"
+            href: hiv.qmd
+      - text: "About"
+        href: about.qmd
 format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-editor: visual
+  dashboard:
+    scrolling: true
 
