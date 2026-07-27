@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Brazos Nexus",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "source? ask georgette\n\n\nThis dashboard is maintained once a week on Fridays, when new reported data is entered."
   },
   {
     "objectID": "hiv.html",
@@ -19,5 +19,26 @@
     "title": "HIV",
     "section": "",
     "text": "Human Immunodeficiency Virus (HIV)"
+  },
+  {
+    "objectID": "about.html#data-source",
+    "href": "about.html#data-source",
+    "title": "About Brazos Nexus",
+    "section": "",
+    "text": "source? ask georgette\n\n\nThis dashboard is maintained once a week on Fridays, when new reported data is entered."
+  },
+  {
+    "objectID": "about.html#methodology",
+    "href": "about.html#methodology",
+    "title": "About Brazos Nexus",
+    "section": "Methodology",
+    "text": "Methodology\n\nTechnical Setup\nThis dashboard was built using R, Quarto, and the following packages: tidyverse, tigris, sf, lubridate, leaflet, plotly, bslib, DT.\n\n\nConfidentiality\nGeographic summaries are displayed at the ZIP Code Tabulation Area (ZCTA) level to balance spatial detail with patient confidentiality and facilitate routine dashboard maintenance."
+  },
+  {
+    "objectID": "about.html#dashboard-development",
+    "href": "about.html#dashboard-development",
+    "title": "About Brazos Nexus",
+    "section": "Dashboard Development",
+    "text": "Dashboard Development\nThis dashboard was designed and developed by   Clemence A. Fichet  , an MPH student in Epidemiology at the Texas A&M University School of Public Health, during a practicum with the Brazos County Health District. This dashboard was included as a deliverable in the Applied Practice Experience (APEx) program at the School of Public Health.\nQuestions about development can be fielded to clemence.fichet@tamu.edu."
   }
 ]
