@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Brazos Nexus 1"
+  title: "Brazos Nexus"
   navbar:
     left:
       - href: index.qmd

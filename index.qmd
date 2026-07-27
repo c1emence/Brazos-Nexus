@@ -1,5 +1,5 @@
 ---
-title: "Brazos Nexus 1"
+title: "Brazos Nexus"
 ---
 
 This is a Quarto website.
