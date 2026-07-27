@@ -18,6 +18,10 @@ website:
             href: hiv.qmd
           - text: "Syphilis"
             href: syphilis.qmd
+      - text: "Vector Surveillance"
+        menu:
+          - text: "West Nile Virus"
+            href: wnile.qmd
       - text: "About"
         href: about.qmd
 format:
