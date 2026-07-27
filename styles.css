@@ -112,3 +112,16 @@ code {
 .footer {
   color: #737373;
 }
+
+/* Value boxes */
+.value-box-title,
+.value-box-area,
+.value-box-value {
+  text-align: center;
+}
+.value-box-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

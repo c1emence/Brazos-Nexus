@@ -27,6 +27,5 @@ website:
 format:
   dashboard:
     theme: styles.css
-    orientation: rows
+    orientation: columns
     scrolling: true
-

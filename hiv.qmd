@@ -3,6 +3,7 @@ title: "HIV"
 format: 
   dashboard:
     scrolling: true
+    orientation: columns
 ---
 
 ```{r}
@@ -52,7 +53,18 @@ page <- build_disease_page(
 ```
 
 # Summary
+## Summary Text {width="75%"}
+```{=html}
+<div class="summary-text">
+<h2>Summary</h2>
 
+<p>
+This dashboard provides surveillance information for...
+</p>
+</div>
+```
+
+## Total Case Count {width="25%"}
 ```{r}
 #| title: Total Reported Cases
 #| echo: false

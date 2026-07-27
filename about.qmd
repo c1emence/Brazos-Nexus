@@ -2,6 +2,7 @@
 title: "About Brazos Nexus"
 format: html
 theme: styles.css
+anchor-sections: false
 ---
 ## Data Source
 
