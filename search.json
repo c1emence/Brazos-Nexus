@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome to the Brazos County Notifiable Diseases Dashboard. This website serves as a central hub for summaries of notifiable conditions in Brazos County. Use the navigation bar to explore disease-specific geographic distributions and time-trends."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Brazos Nexus",
     "section": "",
     "text": "source? ask georgette\n\n\nThis dashboard is maintained once a week on Fridays, when new reported data is entered."
-  },
-  {
-    "objectID": "hiv.html",
-    "href": "hiv.html",
-    "title": "HIV",
-    "section": "",
-    "text": "Human Immunodeficiency Virus (HIV)"
   },
   {
     "objectID": "about.html#data-source",
@@ -40,12 +26,5 @@
     "title": "About Brazos Nexus",
     "section": "Dashboard Development",
     "text": "Dashboard Development\nThis dashboard was designed and developed by   Clemence A. Fichet  , an MPH student in Epidemiology at the Texas A&M University School of Public Health, during a practicum with the Brazos County Health District. This dashboard was included as a deliverable in the Applied Practice Experience (APEx) program at the School of Public Health.\nQuestions about development can be fielded to clemence.fichet@tamu.edu."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Welcome",
-    "section": "Quick Links",
-    "text": "Quick Links\nNavigate to the Brazos County Health District Website   here  ."
   }
 ]

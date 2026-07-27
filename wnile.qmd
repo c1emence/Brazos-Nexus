@@ -1,9 +1,0 @@
----
-title: "West Nile Virus"
-format: dashboard
-editor: visual
----
-
-West Nile Virus
-
-skeeters :/
