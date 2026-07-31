@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-07-31">
 
 <title>Welcome – Brazos Nexus</title>
 <style>
@@ -44,9 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b51a8309bbd885059a062f77ceb925a1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-b51a8309bbd885059a062f77ceb925a1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-b51a8309bbd885059a062f77ceb925a1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3b56caf942d893b89c721583f7e9da5c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3b56caf942d893b89c721583f7e9da5c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3b56caf942d893b89c721583f7e9da5c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-dashboard/quarto-dashboard.js"></script>
 <script src="site_libs/quarto-dashboard/stickythead.js"></script>
 
@@ -82,6 +83,49 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+  const footer = document.createElement("div");
+
+
+
+  footer.className = "dashboard-update-footer";
+
+
+
+  footer.innerHTML = `
+
+    Dashboard last updated:
+
+    <span id="dashboard-last-updated"></span>
+
+  `;
+
+
+
+  document.body.appendChild(footer);
+
+
+
+  document.getElementById("dashboard-last-updated").textContent =
+
+    new Date(document.lastModified).toLocaleDateString("en-US", {
+
+      weekday: "long",
+
+      year: "numeric",
+
+      month: "long",
+
+      day: "numeric"
+
+    });
+
+});
+
+</script>
 
 
 </head>
